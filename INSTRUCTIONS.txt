@@ -24,5 +24,3 @@ Input/Output:
     Output (display<): Outputs data of any supported type (int, double, char, string, bool) to the console.
 
     Input (plugin>): Reads data of appropriate type (int, double, char, string) from the console into variables of appropriate type, also includes cin.ignore() after cin>>.
-
-(Help taken from ChatGPT for this txt file)
