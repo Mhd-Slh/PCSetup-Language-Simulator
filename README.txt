@@ -37,5 +37,3 @@ Challenges:
     Simulating a computer environment and its CPU.
     Managing multiple data types and ensuring proper interactions with the CPU class.
     Implementing operator overloading correctly across various classes and ensuring consistent behavior.
-
-(Help taken from ChatGPT for this txt file)
